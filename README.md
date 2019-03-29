@@ -14,9 +14,8 @@
 座位请求已提交并返回： {"Msg":"预约成功","ReturnValue":0}
 
 
-#交流
+# 交流
 交流QQ:1947719574
 个人博客：https://blog.netimed.cn
 
-#求star
 
